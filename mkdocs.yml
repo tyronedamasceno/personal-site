@@ -1,0 +1,18 @@
+site_name: Resume - Tyrone Damasceno
+theme:
+  name: material
+  language: en
+  palette:
+    scheme: slate
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/tyronedamasceno
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/tyronedamasceno/
+    - icon: fontawesome/brands/whatsapp
+      link: https://wa.me/31630903490
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/tyronedamasceno"  target="_blank" rel="noopener">Tyrone Damasceno</a>
